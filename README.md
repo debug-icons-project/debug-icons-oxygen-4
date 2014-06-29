@@ -38,7 +38,7 @@ In order to do so add the debug-icons theme to your theme file. At the top of th
 
 Change this line to
 
-    Inherits=debug-icons-standard-0.8.90,gnome,hicolor
+    Inherits=debug-icons-oxygen-4,gnome,hicolor
     
 Now all icons which are not present in your theme should be replaced with icons from the debug theme.
 
