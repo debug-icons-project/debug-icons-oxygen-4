@@ -1,6 +1,18 @@
 debug-icons-oxygen-4
 ====================
 
+![Icon](https://raw.githubusercontent.com/debug-icons-project/debug-icons-standard-0.8.90/master/16x16/actions/application-exit.png)
+
+![Icon](https://raw.githubusercontent.com/debug-icons-project/debug-icons-standard-0.8.90/master/22x22/apps/accessories-calculator.png)
+
+![Icon](https://raw.githubusercontent.com/debug-icons-project/debug-icons-standard-0.8.90/master/24x24/categories/applications-science.png)
+
+![Icon](https://raw.githubusercontent.com/debug-icons-project/debug-icons-standard-0.8.90/master/32x32/devices/input-mouse.png)
+
+![Icon](https://raw.githubusercontent.com/debug-icons-project/debug-icons-standard-0.8.90/master/48x48/emblems/emblem-mail.png)
+
+![Icon](https://raw.githubusercontent.com/debug-icons-project/debug-icons-standard-0.8.90/master/64x64/emotes/face-laugh.png)
+
 The goal of the debug-icons-project is to create icon themes which can be used to a) debug and modify existing icon themes, b) check the correct usage of icons in UIs/DEs or c) as a basis for new themes. In addition, the project provides a set of Python scripts which can be used to easily modify, extend and update the icon themes.
 
 The variant `debug-icons-oxygen-4` is based on the Oxygen icon theme for KDE 4 and covers all its icons (except flags and animations). Since the official site currently offline (June 2014), the latest Oxygen version was downloaded from: http://download.kde.org/stable/4.13.2/src/oxygen-icons-4.13.2.tar.xz
